@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#1D2951;
+}
+nav{
+    font-family: sans-serif;
+    display: flex;
+    width: 100%;
+}
+.logo{
+    margin:25px;
+    margin-left: 125px;
+    font-size: 1em;
+    font-weight: 700;
+    width: 50%;
+    color: white;
+}
+.links li {
+     list-style-type: none ;
+     float: left;
+     margin-top: 30px;
+     display: inline-block;
+}
+.links li a{
+     margin: 35px;
+     color: white;
+     text-decoration: none;
+    }
+    header{
+        font-family: sans-serif;
+        display: flex;
+    }
+    .main {
+        width: 40%;
+        margin-left: 140px;
+        margin-top: 200px;
+        line-height: 45px;
+        color: white;
+     }
+     .main h1{
+        letter-spacing: 2px;
+     }
+    .button{
+        padding: ;
+        border-radius: 30px;
+        width: 20%;
+        background-color: #1D2951;
+        border-color: white;
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    .image img{
+        float: right;
+        margin-top: 150px;
+        margin-left: 210px;
+    }
+    
+   .col{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 0px;
+   }
+
+   .heading{
+    align-items: center;
+    color: #1D2951;
+    background-color: white;
+
+   }
+   
+   .card{
+    margin: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 0;
+    background-color:white
+   }
+    .card1{
+        background-color: rgba(235, 135, 135, 0.809);
+    }
+    .card2{
+        background-color:#FFD900;
+    }
+    .card3{
+        background-color:skyblue;
+    }
+    .card4{
+        background-color: antiquewhite ;
+    }
+   .card-body{
+    margin: 5px;
+   }
+   .card-subtitle {
+    margin-top: 15px;
+   }
+   
+  
+
+    
+    
+   
+  
+  
+   
+
+    
+    
+   
